@@ -1,4 +1,4 @@
-# ImageEditor
+# deserialize
 ImageEditor is a jQuery plugin which can scale, rotate, move images, and merge images, based on HTML5 canvas.
 And now it supports multi touch in mobile phones, thanks to Hammer.js
 
@@ -33,4 +33,4 @@ editor.mergeImage(); // merge all images together, returns a canvas DOM
 ```
 
 ### Demo
-http://demo.jackyang.me/image-editor/app/demo.html
+http://demo.jackyang.me/deserialize/app/demo.html
