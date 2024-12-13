@@ -1,4 +1,4 @@
-# deserialize
+# WirelessDisplay
 ImageEditor is a jQuery plugin which can scale, rotate, move images, and merge images, based on HTML5 canvas.
 And now it supports multi touch in mobile phones, thanks to Hammer.js
 
